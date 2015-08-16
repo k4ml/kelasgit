@@ -10,6 +10,7 @@ if ($_POST['edit']) {
 	echo "for editing";
 }
 
+// some comment
 if ($_POST['delete']) {
 	echo "for deleting";
 }

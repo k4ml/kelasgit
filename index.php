@@ -13,4 +13,6 @@ if ($_POST['edit']) {
 // some comment
 if ($_POST['delete']) {
 	echo "for deleting";
+	
+echo "edit by fadilah";
 }

@@ -9,3 +9,7 @@ echo"Most of the time you will have a checked-out branch (the special reference 
 if ($_POST['edit']) {
 	echo "for editing";
 }
+
+if ($_POST['delete']) {
+	echo "for deleting";
+}
